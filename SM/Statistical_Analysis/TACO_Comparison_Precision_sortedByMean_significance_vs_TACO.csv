@@ -1,0 +1,13 @@
+Model,metric,sorted_by,test,p_raw,p_adj_BH,reject_0.05,A12_TACO_vs_Model,n_taco,n_model
+MLP,Precision,mean,Wilcoxon (paired),1.0,1.0,False,0.64,5,5
+RandomForest,Precision,mean,Wilcoxon (paired),0.8125,0.975,False,0.5199999999999999,5,5
+GradientBoosting,Precision,mean,Wilcoxon (paired),1.0,1.0,False,0.6,5,5
+SVC,Precision,mean,Wilcoxon (paired),0.4375,0.65625,False,0.64,5,5
+Bagging,Precision,mean,Wilcoxon (paired),0.8125,0.975,False,0.6,5,5
+ExtraTrees,Precision,mean,Wilcoxon (paired),0.3125,0.5357142857142857,False,0.6,5,5
+KNN,Precision,mean,Wilcoxon (paired),0.3125,0.5357142857142857,False,0.68,5,5
+AdaBoost,Precision,mean,Wilcoxon (paired),0.0625,0.15,False,0.76,5,5
+TabPFN_Base,Precision,mean,Wilcoxon (paired),0.0625,0.15,False,0.8400000000000001,5,5
+LogisticRegression,Precision,mean,Wilcoxon (paired),0.0625,0.15,False,0.8800000000000001,5,5
+RidgeClassifier,Precision,mean,Wilcoxon (paired),0.0625,0.15,False,0.96,5,5
+LDA,Precision,mean,Wilcoxon (paired),0.0625,0.15,False,0.96,5,5
