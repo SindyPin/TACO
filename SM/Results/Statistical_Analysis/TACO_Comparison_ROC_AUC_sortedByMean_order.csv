@@ -1,0 +1,14 @@
+position,Model
+0,TACO
+1,Bagging
+2,RandomForest
+3,SVC
+4,ExtraTrees
+5,KNN
+6,MLP
+7,GradientBoosting
+8,TabPFN_Base
+9,AdaBoost
+10,LogisticRegression
+11,RidgeClassifier
+12,LDA

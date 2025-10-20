@@ -1,0 +1,13 @@
+Model,metric,sorted_by,test,p_raw,p_adj_BH,reject_0.05,A12_TACO_vs_Model,n_taco,n_model
+SVC,Recall,mean,Wilcoxon (paired),0.1875,0.22499999999999998,False,0.4,5,5
+ExtraTrees,Recall,mean,Wilcoxon (paired),1.0,1.0,False,0.5,5,5
+RandomForest,Recall,mean,Wilcoxon (paired),0.625,0.6818181818181819,False,0.5,5,5
+Bagging,Recall,mean,Wilcoxon (paired),0.125,0.1875,False,0.6199999999999999,5,5
+GradientBoosting,Recall,mean,Wilcoxon (paired),0.1875,0.22499999999999998,False,0.8,5,5
+TabPFN_Base,Recall,mean,Wilcoxon (paired),0.0625,0.10714285714285714,False,0.8,5,5
+KNN,Recall,mean,Wilcoxon (paired),0.0625,0.10714285714285714,False,0.8400000000000001,5,5
+AdaBoost,Recall,mean,Wilcoxon (paired),0.0625,0.10714285714285714,False,1.0,5,5
+MLP,Recall,mean,Wilcoxon (paired),0.0625,0.10714285714285714,False,1.0,5,5
+LogisticRegression,Recall,mean,Wilcoxon (paired),0.0625,0.10714285714285714,False,1.0,5,5
+LDA,Recall,mean,Wilcoxon (paired),0.0625,0.10714285714285714,False,1.0,5,5
+RidgeClassifier,Recall,mean,Wilcoxon (paired),0.0625,0.10714285714285714,False,1.0,5,5
