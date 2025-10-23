@@ -1,0 +1,133 @@
+pathway_source,PW_Name,Relevance,Rationale
+hsa00010,Glycolysis,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00030,Pentose phosphate,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00230,Purine metabolism,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00240,Pyrimidine metabolism,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00250,"Alanine, aspartate",High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00280,"Valine, leucine",High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00310,Lysine degradation,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00330,Arginine and proline,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00380,Tryptophan metabolism,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00410,β-Alanine metabolism,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00480,Glutathione metabolism,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00510,N‑Glycan biosynthesis,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00512,Mucin‑type O‑glycan,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00513,Various types of N‑glycan,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00515,Mannose‑type O‑glycan,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00562,Inositol phosphate m,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00564,Glycerophospholipid,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00565,Ether lipid metaboli,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00590,Arachidonic acid met,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00591,Linoleic acid metabo,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00600,Sphingolipid metabol,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00601,Glycosphingolipid bi,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00603,Glycosphingolipid bi,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00604,Glycosphingolipid bi,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00620,Pyruvate metabolism,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00670,One carbon pool by f,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00980,Metabolism of xenobi,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa00983,Drug metabolism,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa04066,HIF‑1 signaling path,High,Core immune/endothelial/mito or viral reactivation signal reported in COVID/LC.
+hsa04070,Phosphatidylinositol,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa04115,p53 signaling pathwa,High,Core immune/endothelial/mito or viral reactivation signal reported in COVID/LC.
+hsa04137,Mitophagy – animal,High,Core immune/endothelial/mito or viral reactivation signal reported in COVID/LC.
+hsa04148,mTOR signaling pathw,High,Core immune/endothelial/mito or viral reactivation signal reported in COVID/LC.
+hsa04210,Apoptosis,High,Core immune/endothelial/mito or viral reactivation signal reported in COVID/LC.
+hsa04211,Longevity regulating,High,"Energy, lipid mediator, glyco or redox remodeling linked to LC symptoms."
+hsa04371,Apelin signaling pat,High,Core immune/endothelial/mito or viral reactivation signal reported in COVID/LC.
+hsa04510,Focal adhesion,High,Core immune/endothelial/mito or viral reactivation signal reported in COVID/LC.
+hsa04614,Renin–angiotensin sy,High,Core immune/endothelial/mito or viral reactivation signal reported in COVID/LC.
+hsa04620,Toll‑like receptor s,High,Core immune/endothelial/mito or viral reactivation signal reported in COVID/LC.
+hsa04625,C‑type lectin recept,High,Core immune/endothelial/mito or viral reactivation signal reported in COVID/LC.
+hsa04650,Natural killer cell,High,Core immune/endothelial/mito or viral reactivation signal reported in COVID/LC.
+hsa04657,IL‑17 signaling path,High,Core immune/endothelial/mito or viral reactivation signal reported in COVID/LC.
+hsa04658,Th1 and Th2 cell dif,High,Core immune/endothelial/mito or viral reactivation signal reported in COVID/LC.
+hsa04659,Th17 cell differenti,High,Core immune/endothelial/mito or viral reactivation signal reported in COVID/LC.
+hsa04660,T cell receptor sign,High,Core immune/endothelial/mito or viral reactivation signal reported in COVID/LC.
+hsa04670,Leukocyte transendot,High,Core immune/endothelial/mito or viral reactivation signal reported in COVID/LC.
+hsa05161,Hepatitis B,High,Viral infection/reactivation module linked to LC cohorts.
+hsa05163,Human cytomegaloviru,High,Viral infection/reactivation module linked to LC cohorts.
+hsa05164,Influenza A,High,Viral infection/reactivation module linked to LC cohorts.
+hsa05165,Human papillomavirus,High,Viral infection/reactivation module linked to LC cohorts.
+hsa05167,Kaposi sarcoma‑assoc,High,Viral infection/reactivation module linked to LC cohorts.
+hsa05169,Epstein‑Barr virus i,High,Viral infection/reactivation module linked to LC cohorts.
+hsa05170,HIV‑1 infection,High,Viral infection/reactivation module linked to LC cohorts.
+hsa05235,PD‑L1 expression and,High,Core immune/endothelial/mito or viral reactivation signal reported in COVID/LC.
+hsa05417,Lipid and atheroscle,High,Core immune/endothelial/mito or viral reactivation signal reported in COVID/LC.
+hsa05418,Fluid shear stress a,High,Core immune/endothelial/mito or viral reactivation signal reported in COVID/LC.
+hsa00052,Galactose metabolism,Moderate,Supporting metabolic/signaling axis observed across LC datasets.
+hsa00061,Fatty acid biosynthesis,Moderate,Supporting metabolic/signaling axis observed across LC datasets.
+hsa00062,Fatty acid elongation,Moderate,Supporting metabolic/signaling axis observed across LC datasets.
+hsa00071,Fatty acid degradation,Moderate,Supporting metabolic/signaling axis observed across LC datasets.
+hsa00260,"Glycine, serine",Moderate,Supporting metabolic/signaling axis observed across LC datasets.
+hsa00270,Cysteine and methionine,Moderate,Supporting metabolic/signaling axis observed across LC datasets.
+hsa00531,Glycosaminoglycan degradation,Moderate,Supporting metabolic/signaling axis observed across LC datasets.
+hsa00534,Glycosaminoglycan biosynthesis,Moderate,Supporting metabolic/signaling axis observed across LC datasets.
+hsa00541,Biosynthesis of vari,Moderate,Supporting metabolic/signaling axis observed across LC datasets.
+hsa00630,Glyoxylate and dicar,Moderate,Supporting metabolic/signaling axis observed across LC datasets.
+hsa00640,Propanoate metabolis,Moderate,Supporting metabolic/signaling axis observed across LC datasets.
+hsa00650,Butanoate metabolism,Moderate,Supporting metabolic/signaling axis observed across LC datasets.
+hsa00750,Vitamin B6 metabolis,Moderate,Supporting metabolic/signaling axis observed across LC datasets.
+hsa00760,Nicotinate and nicot,Moderate,Supporting metabolic/signaling axis observed across LC datasets.
+hsa00830,Retinol metabolism,Moderate,Supporting metabolic/signaling axis observed across LC datasets.
+hsa00900,Terpenoid backbone b,Moderate,Supporting metabolic/signaling axis observed across LC datasets.
+hsa00920,Sulfur metabolism,Moderate,Supporting metabolic/signaling axis observed across LC datasets.
+hsa04022,cGMP–PKG signaling p,Moderate,Supporting metabolic/signaling axis observed across LC datasets.
+hsa04024,cAMP signaling pathw,Moderate,Supporting metabolic/signaling axis observed across LC datasets.
+hsa04380,Osteoclast different,Moderate,Supporting metabolic/signaling axis observed across LC datasets.
+hsa04910,Insulin signaling pa,Moderate,Endocrine/autonomic axes dysregulated in subsets of LC.
+hsa04919,Thyroid hormone sign,Moderate,Endocrine/autonomic axes dysregulated in subsets of LC.
+hsa04921,Oxytocin signaling p,Moderate,Endocrine/autonomic axes dysregulated in subsets of LC.
+hsa04927,Cortisol synthesis a,Moderate,Endocrine/autonomic axes dysregulated in subsets of LC.
+hsa04931,Insulin resistance g,Moderate,Endocrine/autonomic axes dysregulated in subsets of LC.
+hsa04933,AGE‑RAGE signaling p,Moderate,Supporting metabolic/signaling axis observed across LC datasets.
+hsa04934,Cushing syndrome KEG,Moderate,Endocrine/autonomic axes dysregulated in subsets of LC.
+hsa04960,Aldosterone‑regulate,Moderate,Endocrine/autonomic axes dysregulated in subsets of LC.
+hsa05130,Pathogenic Escherich,Moderate,Non‑SARS pathogen module; reflects host‑response proxy relevant to LC.
+hsa05132,Salmonella infection,Moderate,Non‑SARS pathogen module; reflects host‑response proxy relevant to LC.
+hsa05135,Yersinia infection K,Moderate,Non‑SARS pathogen module; reflects host‑response proxy relevant to LC.
+hsa05140,Leishmaniasis,Moderate,Non‑SARS pathogen module; reflects host‑response proxy relevant to LC.
+hsa05142,Chagas disease (Amer,Moderate,Non‑SARS pathogen module; reflects host‑response proxy relevant to LC.
+hsa05143,African trypanosomia,Moderate,Non‑SARS pathogen module; reflects host‑response proxy relevant to LC.
+hsa05152,Tuberculosis,Moderate,Non‑SARS pathogen module; reflects host‑response proxy relevant to LC.
+hsa05231,Choline metabolism i,Moderate,Supporting metabolic/signaling axis observed across LC datasets.
+hsa05415,Diabetic cardiomyopa,Moderate,Supporting metabolic/signaling axis observed across LC datasets.
+hsa05200,Pathways in cancer,Nonspecific,Broad cancer/signal compendium; often non‑specific enrichment.
+hsa05208,Colorectal cancer,Nonspecific,Broad cancer/signal compendium; often non‑specific enrichment.
+hsa05210,Bladder cancer,Nonspecific,Broad cancer/signal compendium; often non‑specific enrichment.
+hsa05211,Renal cell carcinoma,Nonspecific,Broad cancer/signal compendium; often non‑specific enrichment.
+hsa05213,Endometrial cancer,Nonspecific,Broad cancer/signal compendium; often non‑specific enrichment.
+hsa05215,Prostate cancer,Nonspecific,Broad cancer/signal compendium; often non‑specific enrichment.
+hsa05216,Thyroid cancer – Hom,Nonspecific,Broad cancer/signal compendium; often non‑specific enrichment.
+hsa05222,Small cell lung canc,Nonspecific,Broad cancer/signal compendium; often non‑specific enrichment.
+hsa05224,Breast cancer – Homo,Nonspecific,Broad cancer/signal compendium; often non‑specific enrichment.
+hsa05225,Hepatocellular carci,Nonspecific,Broad cancer/signal compendium; often non‑specific enrichment.
+hsa05226,Gastric cancer – Hom,Nonspecific,Broad cancer/signal compendium; often non‑specific enrichment.
+hsa05230,Central carbon metab,Nonspecific,Broad cancer/signal compendium; often non‑specific enrichment.
+hsa00020,Citrate cycle,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa00051,Fructose & mannose,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa00120,Primary bile acid,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa00350,Tyrosine metabolism,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa00360,Phenylalanine metabolism,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa00440,Phosphonate and metabolism,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa00450,Selenocompound metabolism,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa00500,Starch and sucrose,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa00520,Amino sugar and nucleotide,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa00561,Glycerolipid metabol,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa00770,Pantothenate and CoA,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa00785,Lipoic acid metaboli,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa00790,Folate biosynthesis,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa00860,Porphyrin and chloro,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa04310,Wnt signaling pathwa,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa04340,Hedgehog signaling p,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa04916,Melanogenesis KEGG,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa04917,Prolactin signaling,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa04928,Parathyroid hormone,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa04935,Growth hormone synth,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa04936,Alcoholic liver dise,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa05012,Parkinson disease ge,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa05120,Epithelial cell sign,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa05145,Toxoplasmosis,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa05166,Human T‑cell leukemi,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa05202,Transcriptional misr,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
+hsa05321,Inflammatory bowel d,Plausible,Generic metabolism/signaling plausibly involved but less LC‑specific evidence.
