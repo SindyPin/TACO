@@ -7,7 +7,6 @@
 This repository contains **all code, data processing pipelines, and evaluation scripts** to reproduce the results from our paper:
 
 > **TACO: TabPFN-Augmented Causal Outcomes for Early Detection of Long COVID**  
-> [Authors] (2025) *Submitted to [Australasian Data Science and Machine Learning Conference 2025 (AusDM)](https://ausdm25.ausdm.org/Call%20for%20Papers.html)*
 
 **Key Innovation**: TACO integrates foundation models with causal inference to achieve presymptomatic Long COVID detection, demonstrating that mechanistic understanding through causal gene selection substantially outperforms traditional statistical approaches.
 
