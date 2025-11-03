@@ -1,4 +1,4 @@
-# ==== Core scientific stack (as pinned in your conda spec) ====
+# ==== Core scientific stack ====
 numpy==1.26.4                 # Fast N-dim arrays & vectorized math
 pandas==2.3.3                 # DataFrames, CSV/Parquet I/O, time series
 scipy==1.15.2                 # Optimization, linear algebra, stats, FFT
@@ -32,29 +32,25 @@ six==1.17.0                   # Py2/3 compatibility shims used by some deps
 zipp==3.23.0                  # Zip file path helpers (used by importlib-metadata)
 importlib-metadata==8.7.0     # Access package metadata at runtime
 
-# ==== Deep learning backend (CPU/MKL build as in spec) ====
-# Your conda spec pins the MKL CPU build of PyTorch:
+# ==== Deep learning backend ====
 torch==2.1.2                  # Installed as 'pytorch' (cpu + MKL) via conda
-# torchvision is NOT present in your spec. Add if you need vision models:
-# torchvision==0.16.2         # Vision datasets/models/transforms (optional)
 
-# ==== Optional: TabPFN and friends (NOT present in the conda spec) ====
-# TabPFN is typically installed via pip. Uncomment if you need it here:
-# tabpfn==2.2.1               # Tabular Prior-Data Fitted Networks (v2 API)
-# If you’ll do post-hoc ensembles or AutoTabPFN, add (optional):
-# tabpfn-extensions==0.1.5    # Extra utilities/ensembles around TabPFN
-# autogluon.tabular==1.1.1    # AutoML (tabular); heavy, optional
+# ==== Optional: TabPFN and friends ====
+tabpfn==2.2.1               # Tabular Prior-Data Fitted Networks (v2 API)
+# For post-hoc ensembles and AutoTabPFN:
+tabpfn-extensions==0.1.5    # Extra utilities/ensembles around TabPFN
+autogluon.tabular==1.1.1    # AutoML (tabular); heavy, optional
 
-# ==== Optional plotting & stats (NOT present in the conda spec) ====
-# matplotlib==3.7.2           # Core plotting
-# seaborn==0.12.2             # Statistical plotting on top of Matplotlib
-# plotly==5.17.0              # Interactive plotting
-# statsmodels==0.14.0         # Classical stats/GLMs/time series
-# scikit-learn==1.3.2         # Standard ML toolkit (estimators, metrics, CV)
-# xgboost==1.7.6              # Gradient boosting trees (CPU/GPU)
-# lightgbm==4.1.0             # Fast gradient boosting (CPU/GPU)
-# catboost==1.2.2             # Gradient boosting with categorical support
+# ==== Optional plotting & stats ====
+matplotlib==3.7.2           # Core plotting
+seaborn==0.12.2             # Statistical plotting on top of Matplotlib
+plotly==5.17.0              # Interactive plotting
+statsmodels==0.14.0         # Classical stats/GLMs/time series
+scikit-learn==1.3.2         # Standard ML toolkit (estimators, metrics, CV)
+xgboost==1.7.6              # Gradient boosting trees (CPU/GPU)
+lightgbm==4.1.0             # Fast gradient boosting (CPU/GPU)
+catboost==1.2.2             # Gradient boosting with categorical support
 
-# ==== Spreadsheet I/O (NOT present in the conda spec) ====
-# openpyxl==3.1.2             # Excel .xlsx read/write
-# xlrd==2.0.1                 # Legacy Excel .xls reader (limited)
+# ==== Spreadsheet I/O ====
+openpyxl==3.1.2             # Excel .xlsx read/write
+xlrd==2.0.1                 # Legacy Excel .xls reader
