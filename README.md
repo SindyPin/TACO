@@ -30,7 +30,7 @@ TACO (TabPFN-Augmented Causal Outcomes) synergistically combines:
 - **Biological Validation**: 23.6% of causal genes confirmed in Long COVID literature
 - **Clinical Relevance**: High precision minimizes false positives for clinical deployment
 
-![TACO Framework Workflow](Workflow2.png)
+![TACO Framework Workflow](Workflow.png)
 *Figure 1: TACO integrates DCE-identified causal genes with TabPFN's foundation model capabilities for early Long COVID detection*
 
 ---
